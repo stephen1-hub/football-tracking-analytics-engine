@@ -1,0 +1,22 @@
+football-tracking-analytics-engine/
+
+│── data/
+│   ├── sample_match.json
+│   ├── sample_tracking.jsonl
+│
+│── images/
+│   ├── tracking_animation.png
+│   ├── convex_hull.png
+│   ├── heatmap.png
+│
+│── notebooks/
+│   └── Tracking_Analytics.ipynb
+│
+│── src/
+│   ├── tracking_engine.py
+│   ├── metrics.py
+│   ├── visualization.py
+│
+│── requirements.txt
+│── README.md
+│── LICENSE
